@@ -1,4 +1,8 @@
 # <a href="https://github.com/Gurpinder612/HirokoTest" target="_blank">Heroku Test</a>
+# Application is using MIT license
+
+## Gurpinderkaur, StudentId:- 8715526
+
 
 To run:  click on https://secret-garden-86097.herokuapp.com/
 
